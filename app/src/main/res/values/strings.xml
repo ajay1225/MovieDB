@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MovieDB3</string>
+    <string name="poster">poster</string>
+    <string name="favourite_button">favourite button</string>
+    <string name="backdrop">backdrop</string>
+    <string name="trailer_pic">trailer pic</string>
+    <string name="trailer">Trailer</string>
+    <string name="results">Results</string>
+    <string name="original_value">Original Value</string>
+    <string name="trailer_s">Trailer(s)</string>
+    <string name="comment_s">Comment(s)</string>
+    <string name="plot_synopsis">Plot Synopsis:</string>
+    <string name="original_text">Original Text</string>
+    <string name="release_date">Release Date:</string>
+    <string name="original_date">Original date</string>
+    <string name="rating">Rating:</string>
+    <string name="original_rating">Original Rating</string>
+    <string name="popular">popular</string>
+    <string name="top_rated">top rated</string>
+    <string name="favourites">favourites</string>
+    <string name="author">Author</string>
+    <string name="comment">comment</string>
+    <string name="fav_error">No Movie added to favourites</string>
+    <string name="toast_delete">deleted from favourites</string>
+    <string name="toast_fav">Movie added favourite</string>
+    <string name="title">Title</string>
+    <string name="error_internet">Please Connect to internet</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+</resources>
